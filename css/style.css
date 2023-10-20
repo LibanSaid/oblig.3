@@ -1,5 +1,9 @@
-body {
+body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     background-color: #faff00;
+}
+
+h1{
+    font-size: 2rem;
 }
